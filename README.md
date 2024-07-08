@@ -20,16 +20,16 @@ This project focuses on detecting autism in early childhood using machine learni
 ## Result of the Model
 
 ### Confusion Matrix
-![Confusion Matrix](Result/confusion_matrix.png)
+![Confusion Matrix](https://github.com/AnshulRathee/Autism-Detection-Model-for-Early-Childhood-Screening/blob/main/confusion_matrix.png)
 
 ### Boys-Girls Ratio
-![Boys-Girls Ratio](Result/boys_girls_ratio.png)
+![Boys-Girls Ratio](https://github.com/AnshulRathee/Autism-Detection-Model-for-Early-Childhood-Screening/blob/main/boys_girls_ratio.png)
 
 ### Age Distribution Curve
-![Age Distribution Curve](Result/age_distribution_curve.png)
+![Age Distribution Curve](https://github.com/AnshulRathee/Autism-Detection-Model-for-Early-Childhood-Screening/blob/main/age_distribution_curve.png)
 
 ### Feature Importance
-![Feature Importance](Result/feature_importance.png)
+![Feature Importance](https://github.com/AnshulRathee/Autism-Detection-Model-for-Early-Childhood-Screening/blob/main/feature_importance.png)
 
 ## Getting Started
 To run the project:
@@ -38,8 +38,8 @@ To run the project:
 2. Clone or download the project repository.
 3. Install the required Python modules.
 4. Open and run the following notebooks:
-  - Autism_model.ipynb
-  - Autism_input_model.ipynb
+    - Autism_model.ipynb
+    - Autism_input_model.ipynb
 5. Follow the instructions within each notebook to execute the code and interact with the models.
 
 
